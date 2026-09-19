@@ -2,4 +2,12 @@ git remote -v
 git status
 git remote add origin master
 git remote set-url origin 
+<<<<<<< HEAD
 git push origin mastergit 
+=======
+git push origin master
+
+this is the new chnages
+i have made this new chnages plz apporve the changes
+
+>>>>>>> bceedb1a90f3e181daa169a5262bc3989fb7e0cd
