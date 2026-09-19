@@ -2,4 +2,4 @@ git remote -v
 git status
 git remote add origin master
 git remote set-url origin 
-git push origin master
+git push origin mastergit 
