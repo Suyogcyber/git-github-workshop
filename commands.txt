@@ -3,6 +3,3 @@ git status
 git remote add origin master
 git remote set-url origin 
 git push origin master
-
-git init
-git addgit restore
