@@ -3,3 +3,5 @@ git status
 git remote add origin master
 git remote set-url origin 
 git push origin master
+
+this is the new chnages
